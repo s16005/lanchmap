@@ -1,0 +1,12 @@
+
+header {
+	background-color: red;
+	border-bottom:solid;
+}
+div>span>a>p {
+	font-size: 25px;
+}
+div>span {
+	position:right:0; top: 35px;
+}
+
